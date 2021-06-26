@@ -1,6 +1,6 @@
-# ubuntu-sshd
+# ubuntu-server
 
-Dockerized SSH service, built on top of [official Ubuntu](https://registry.hub.docker.com/_/ubuntu/) images.
+Dockerized Ubuntu with SSH service, built on top of [official Ubuntu](https://registry.hub.docker.com/_/ubuntu/) images.
 
 
 ## Installed packages
